@@ -1,0 +1,13 @@
+{
+  "description":"A copper bar, once smithed from copper ore sourced from Valencia, possesses qualities that make it ideal for forging armor. Its excellent conductivity, high resistance to corrosion, and ability to be easily molded and mixed with other metals ensure that armor crafted from it is both durable and versatile, making it a sought-after material in many industries.",
+  "image":"https://raw.githubusercontent.com/cyon-labs/DiscoSea-S3/main/resource/mining/copper_bar.png",
+"attributes":{
+  "itemType":"resource",
+  "class":"resource",
+  "tier":1,
+  "rarity":"common",
+  "category":"resource"},
+"symbol":"COPPER BAR",
+"name":"Copper BAR",
+"collection":null
+}
